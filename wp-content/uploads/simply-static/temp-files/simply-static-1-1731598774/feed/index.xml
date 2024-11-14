@@ -10,7 +10,7 @@
 <channel>
 	<title>Santander Consumer</title>
 	<atom:link href="https://sc-prueba.netlify.app/feed/" rel="self" type="application/rss+xml" />
-	<link>https://sc-prueba.netlify.app</link>
+	<link>https://sc-prueba.netlify.app/</link>
 	<description>Sencillo Personal Justo</description>
 	<lastBuildDate>Wed, 11 Oct 2023 20:42:23 +0000</lastBuildDate>
 	<language>es</language>
@@ -23,7 +23,7 @@
 <image>
 	<url>https://sc-prueba.netlify.app/wp-content/uploads/2024/04/favicon.png</url>
 	<title>Santander Consumer</title>
-	<link>https://sc-prueba.netlify.app</link>
+	<link>https://sc-prueba.netlify.app/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
